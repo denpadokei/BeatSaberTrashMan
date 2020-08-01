@@ -95,7 +95,6 @@
     <EmbeddedResource Include="Views\settings.bsml">
       <SubType>Designer</SubType>
     </EmbeddedResource>
-    <None Include="dll\BeatSaberTheTrashMan.manifest" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="BuildTargets.targets" />
